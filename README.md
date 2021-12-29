@@ -10,3 +10,6 @@ This is an experimental repository I am using to learn the basic Git concepts as
 
 - Paulo Aexandrino
 
+## Status update
+
+- Created on December 29, 2021.
